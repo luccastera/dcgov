@@ -1,4 +1,4 @@
-# Last modified: June 6, 09 (to create github gem)
+# Last modified: June 6, 09.
 Gem::Specification.new do |s|
   s.name = 'dcgov'
   s.version = '0.0.1'
